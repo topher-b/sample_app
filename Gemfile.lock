@@ -63,7 +63,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.23)
     mini_portile (0.5.1)
-    minitest (5.0.6)
+    minitest (4.6.2)
     multi_json (1.7.7)
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
@@ -144,7 +144,7 @@ DEPENDENCIES
   capybara (= 1.1.2)
   coffee-rails (~> 3.2.1)
   jquery-rails (= 2.0.2)
-  minitest
+  minitest (= 4.6.2)
   pg (= 0.12.2)
   rails (= 3.2.13)
   rspec-rails (= 2.11.0)
